@@ -1,0 +1,8 @@
+#header,caption{
+    background: #29a7a6 !important;
+}
+
+.breadcrubms,h2,[type="submit"]{
+    background: #d1145d !important;
+    color: white !important; 
+}
